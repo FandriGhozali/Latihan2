@@ -1,0 +1,21 @@
+{
+    "title": "Fandri Ghozali",
+    "description":
+      "Pekerjaan yang sulit akan terasa mudah apabila dikerjakan degan iklash",
+    "social": {
+      "ig": {
+        "url": "https://www.instagram.com/fandrighozali/",
+        "title": "fandrighozali"
+      },
+      "fb": {
+        "url": "https://www.facebook.com/fandrighozali/",
+        "title": "Fandri Ghozali"
+      },
+      "yt": {
+        "url": "https://www.youtube.com/channel/UC_ynoRD-DNXWJrHBALoA1pQ",
+        "title": "Fandri Mochie"
+      }
+    },
+    "imageProfile":
+      "https://raw.githubusercontent.com/faridsurya/Vue-Axios-Basic/master/images/farid_1_remove_bg.png"
+  }
